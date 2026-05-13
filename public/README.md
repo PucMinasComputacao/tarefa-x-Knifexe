@@ -10,7 +10,7 @@ Vamos dar um exemplo, se você definiu que seu projeto está relacionado com lug
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Gabriel Henrique de Souza Rodrigues
+- Matricula: 913558
 
 
